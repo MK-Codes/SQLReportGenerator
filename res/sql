@@ -1,0 +1,4 @@
+check01="select * from test"
+check02="select name from test where id = 0"
+check03="select * from test where 1 = 0"
+check04="select name, id from test"
